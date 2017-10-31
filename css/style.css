@@ -1,0 +1,170 @@
+body {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 55px;
+	padding-bottom: 75px;
+
+	background-image: url("http://media.tumblr.com/827b47da12b62c7796709880996ba09c/tumblr_inline_mvsewiM1H01ql5d5i.gif");
+	background-repeat: round;
+
+}
+
+audio{
+	margin-bottom  
+	: -40px;
+	background-color: gray;
+	margin-left: 897px;
+}
+
+
+/* CONTENEDOR */
+
+.contenedor{
+	margin: 0 auto;
+	background: white;
+	width: 1200px;
+}
+
+.verde {
+	margin:0 auto;
+	width: 1200px;
+	height: 20px;
+	background-color: green;
+
+}
+
+.contenedor2 {
+	
+	margin-top: 40px;
+}
+
+.contenedor3 {
+	margin: 0 auto;
+	margin-top: 20px;
+	
+	width: 900px;
+}
+
+
+.contenedor4 {
+	
+	margin:0 auto;
+
+}
+
+
+
+
+
+
+
+/* STUFFS */
+
+p{
+	margin-top: 20px;
+	margin: 0 auto;
+	font-family: 'avenir', cursive;
+	font-size: 20px;
+	width: 900px;
+	font-weight: bold;
+
+}
+
+img{
+	margin-top: 20px;
+}
+
+h3{
+	padding: 5px;
+	font-weight: bold;
+	font-family: 'Gloria Hallelujah', cursive;
+	color: white;
+	font-size: 20px;
+}
+
+
+h3{
+	padding: 5px;
+	font-family: 'Gloria Hallelujah', cursive;
+	color: white;
+	font-size: 15px;
+}
+
+
+
+iframe {
+	margin-top: 40px;
+	margin-left: 20px;
+	margin-bottom: 60px;
+
+}
+
+
+
+
+/*BOTON*/
+
+.botones {
+
+width: 1070px;
+margin-left: 70px;
+margin-top: 30px;
+
+
+}
+.logo{
+
+	margin-top: 100px;
+}
+
+button {
+	background-color: #A01127;
+	border: 0px;
+	text-transform: uppercase;
+	width: 200px;
+	border-radius: 15px;
+margin-right: 73px;
+margin-left: 80px;
+
+}
+
+.boton1:hover {
+
+	background-color: green;
+}
+
+.boton2:hover {
+
+	background-color: green;
+}
+
+.boton3:hover {
+
+	background-color: green;
+}
+a {
+	text-decoration: none;
+}
+
+
+/* FOOTER */
+
+	footer {
+		margin: 0 auto;
+	clear: both; 
+	width: 1200px;
+	background:green;
+	height:60px;
+}
+
+footer address { 
+	font-family: 'arial', sans-serif;
+	position:relative; 
+	top:13px; 
+	left:20px; 
+	color:#fff; 
+	text-align:center; 
+	font-size:15px; 
+	padding: 5px;
+
+}
